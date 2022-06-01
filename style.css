@@ -10,3 +10,10 @@ Version:      1.0.0
 
 /* put your css code here */
 
+.entry-content{
+    color: rgb(85, 85, 85)
+}
+
+.entry-categories-inner a{
+    font-size: 1.8rem;
+}
